@@ -191,7 +191,7 @@ const animationTimeline = () => {
     .from('.ide-24', 0.7, ideaTextTrans)
     .to('.ide-24', 0.7, ideaTextTransLeave, '+=2.5')
     .from('.ide-25', 0.7, verticalAnimation)
-    .to('.ide-25', 0.7, verticalAnimationLeave, '+=14')
+    .to('.ide-25', 0.7, verticalAnimationLeave, '+=15')
     .from('.ide-26', 0.7, ideaTextTrans)
     .to('.ide-26', 0.7, ideaTextTransLeave, '+=2.5')
     .from('.ide-27', 0.7, ideaTextTrans)
@@ -211,7 +211,7 @@ const animationTimeline = () => {
     .from('.ide-33', 0.7, ideaTextTrans)
     .to('.ide-33', 0.7, ideaTextTransLeave, '+=2.5')
     .from('.ide-34', 0.7, verticalAnimation)
-    .to('.ide-34', 0.7, verticalAnimationLeave, '+=14')
+    .to('.ide-34', 0.7, verticalAnimationLeave, '+=15')
     .from(
       '.ide-35',
       0.7,
