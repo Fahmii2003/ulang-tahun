@@ -267,15 +267,14 @@ body {
   align-items: center;
 }
 .replay-btn {
-  visibility: hidden;
-  background-color: #347a9d;
+  background-color: #7e007e;
   padding: 10px 16px;
   border-radius: 6px;
   margin-top: 1rem;
   color: #f3e5f5;
   cursor: pointer;
   font-size: 16px;
-  box-shadow: 2px 2px #347a9d;
+  box-shadow: 2px 2px #4f004f;
   user-select: none;
 }
 .replay-btn:active {
